@@ -1,4 +1,4 @@
-# Curso de HTML e CSS oferecido pela Alura
+# Curso de HTML e CSS - Alura
 
 
 
